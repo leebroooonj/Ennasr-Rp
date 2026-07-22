@@ -169,7 +169,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('assets/bg.jpg') center/cover no-repeat;
+  background: url('./bg.jpg') center/cover no-repeat !important;
   text-align: center;
   overflow: hidden;
 }
